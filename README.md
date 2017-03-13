@@ -8,7 +8,10 @@ The inspiration came after we gained some insights about the current situation i
 Jobble provides job listing and finding service for the emerging world via our unique Jobble SMS bot which combines locations and jobs filters to match the best applicants with the right opportunity.
 
 ## How we built it
-We set up the heart of our SMS bot in python environment and connected to our god Twilio number to accept messages from users (possible job seekers and employers) from the emerging world. 
+We set up the heart of our SMS bot in python environment and connected to our god Twilio number to accept messages from users (possible job seekers and employers) from the emerging world.
+
+## The Demo
+[![Check Jobble in action](https://img.youtube.com/vi/sxEqhttoE1s/0.jpg)](https://www.youtube.com/watch?v=sxEqhttoE1s)
 
 ## Challenges we ran into
 We've some challenges properly connecting the Twilio API at first and we experienced some freezes in the communication as well.
